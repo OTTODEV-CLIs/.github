@@ -8,7 +8,7 @@ Our mission: **empower developers with end-to-end AI scaffolding, project manage
 
 ## ⚡ Featured Projects
 
-### **OTTO v5.5 – The Autonomous Project Manager CLI**
+### **OTTO v5 (Python)– The Autonomous Project Manager CLI**
 🚀 OTTO is our flagship AI CLI that can scaffold, build, document, and deploy projects **fully autonomously**.  
 
 **Key Features:**  
@@ -19,18 +19,7 @@ Our mission: **empower developers with end-to-end AI scaffolding, project manage
 - Multi-platform support: Termux, Linux, Windows, MacOS  
 - CI/CD pipelines ready via **GitHub Actions**  
 
-[🔗 OTTO Repository](https://github.com/OTTODEV/otto)
-
----
-
-### **pj-ela-mvp – AI Quantum Assistant**
-A **live demo project** built entirely using OTTO:  
-
-- Backend: **Azure Functions + GPT-5 AI + Event Grid + Notification Hub**  
-- Frontend: **Flutter dynamic widgets with real-time streaming (LiveKit)**  
-- Dev-kit templates, dashboards, mock data, CI/CD, and automated documentation  
-
-[🔗 pj-ela-mvp Repository](https://github.com/OTTODEV/pj-ela-mvp)
+[🔗 OTTO Repository](https://github.com/OTTODEV-CLIs/PyOTTO-v5-CLi)
 
 ---
 
@@ -57,8 +46,8 @@ A **live demo project** built entirely using OTTO:
 - Automate your dev workflow using OTTO CLI  
 - Join our **quantum AI dev ecosystem**  
 
-[🔗 Visit OTTODEV GitHub](https://github.com/OTTODEV)
+[🔗 Visit OTTODEV GitHub](https://github.com/OTTODEV-CLIs)
 
 ---
 
-![OTTODEV Stats](https://github-readme-stats.vercel.app/api?org=OTTODEV&theme=midnight-purple&count_private=true)
+![OTTODEV Stats](https://github-readme-stats.vercel.app/api?org=OTTODEV-CLIs&theme=midnight-purple&count_private=true)
