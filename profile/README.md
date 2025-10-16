@@ -50,4 +50,4 @@ Our mission: **empower developers with end-to-end AI scaffolding, project manage
 
 ---
 
-![OTTODEV Stats](https://github-readme-stats.vercel.app/api?org=OTTODEV-CLIs&theme=midnight-purple&count_private=true)
+![OTTODEV Stats](https://github-readme-stats.vercel.app/api?org=MuhaliLabs-AI&theme=midnight-purple&count_private=true)
